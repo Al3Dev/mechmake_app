@@ -1,16 +1,22 @@
-# mechmake
+# MechMake
 
-A new Flutter project.
+![MechMake Banner](https://your-image-link.com/banner.jpg)
 
-## Getting Started
+**MechMake** es una aplicación desarrollada en **Flutter** que permite a los usuarios crear y personalizar máquinas en un entorno virtual. Está diseñada para ser intuitiva, rápida y flexible, utilizando las mejores prácticas de diseño y desarrollo.
 
-This project is a starting point for a Flutter application.
+## 📸 Capturas de Pantalla
 
-A few resources to get you started if this is your first Flutter project:
+![Pantalla Principal](https://your-image-link.com/screenshot1.png)
+![Funcionalidad Destacada](https://your-image-link.com/screenshot2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Características Principales
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🛠️ **Diseño de Máquinas Virtuales**: Los usuarios pueden personalizar máquinas con diferentes características.
+- 🌐 **Compatibilidad Multiplataforma**: Disponible en **Android**, **iOS**, **Web**, **Windows**, **Linux**, **macOS**.
+- 🧩 **Interfaz de Usuario Interactiva**: Diseño responsivo y fácil de usar.
+- 📦 **Despliegue Rápido**: Con solo un comando, el proyecto puede ser ejecutado en cualquier plataforma soportada.
+
+## 🚀 Instalación
+
+Sigue estos pasos para ejecutar **MechMake** localmente:
+
