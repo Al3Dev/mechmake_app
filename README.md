@@ -15,8 +15,3 @@
 - 🌐 **Compatibilidad Multiplataforma**: Disponible en **Android**, **iOS**, **Web**, **Windows**, **Linux**, **macOS**.
 - 🧩 **Interfaz de Usuario Interactiva**: Diseño responsivo y fácil de usar.
 - 📦 **Despliegue Rápido**: Con solo un comando, el proyecto puede ser ejecutado en cualquier plataforma soportada.
-
-## 🚀 Instalación
-
-Sigue estos pasos para ejecutar **MechMake** localmente:
-
